@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kadi21447
-- 👀 I’m interested in Programming..
-- 🌱 I’m currently learning artificial intelligence
+- 👀 I’m interested in  artificial intelligence
+- 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on Tuwaiq and Sdaia
-- 📫 How to reach me ...
+- 📫 I know design ui/ux
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
